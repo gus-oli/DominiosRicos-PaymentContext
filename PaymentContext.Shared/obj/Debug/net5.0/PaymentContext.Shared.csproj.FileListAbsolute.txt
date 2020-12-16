@@ -10,3 +10,15 @@ C:\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shar
 C:\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.dll
 C:\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\ref\PaymentContext.Shared.dll
 C:\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.pdb
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.deps.json
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.dll
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\ref\PaymentContext.Shared.dll
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.pdb
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.dll
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\ref\PaymentContext.Shared.dll
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.pdb
