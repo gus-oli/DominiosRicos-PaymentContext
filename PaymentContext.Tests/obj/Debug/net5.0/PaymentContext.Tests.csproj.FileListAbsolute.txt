@@ -202,3 +202,4 @@ C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\Paymen
 C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.csproj.CoreCompileInputs.cache
 C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.csproj.CopyComplete
 C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.genruntimeconfig.cache
+C:\Dev\DominiosRicos-PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\Flunt.dll
